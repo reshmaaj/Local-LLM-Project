@@ -4,10 +4,10 @@ This project demonstrates how to perform **local Large Language Model (LLM) infe
 
 ## Features
 
-- ✅ Local LLM inference (no internet required after setup)  
-- ✅ OpenAI-style chat message handling  
-- ✅ Custom prompt construction  
-- ✅ Error handling and configurable timeouts  
+✅ Local LLM inference (no internet required after setup)  
+✅ OpenAI-style chat message handling  
+✅ Custom prompt construction  
+✅ Error handling and configurable timeouts  
 
 ## Tech Stack
 
